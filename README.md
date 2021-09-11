@@ -4,3 +4,5 @@
 This is a casual person who wants to use Python to restore Hearts of Iron IV as much as possible. It is best to make some innovations, but since I am only a student, uh, you know, not only updates , And quality... If you are also interested in this project, or have suggestions, please contact me. Contact information is omitted, we will talk about it later... And i am poor in English......
 
 # 目前只有英国可供游玩
+
+作者：DpuRhet
