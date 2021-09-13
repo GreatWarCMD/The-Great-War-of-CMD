@@ -6,7 +6,7 @@ This is a casual person who wants to use Python to restore Hearts of Iron IV as 
 # 剧本
 
 目前有两个剧本
-剧本一：英国(1931-)  
-剧本二：上海(城市联盟)  **正在写**
+剧本一：英国(1931-)  **正在写**
+剧本二：上海(城市联盟)  **正在策划**
 
 作者：DpuRhet/GreatWarCMD(ASStent)
