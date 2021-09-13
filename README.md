@@ -9,4 +9,4 @@ This is a casual person who wants to use Python to restore Hearts of Iron IV as 
 剧本一：英国(1931-)
 剧本二：上海(城市联盟)  **正在写**
 
-作者：DpuRhet
+作者：DpuRhet/GreatWarCMD(ASStent)
